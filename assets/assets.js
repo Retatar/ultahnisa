@@ -17,7 +17,10 @@
     'assets/foto/nisahjb2.jpg',
     'assets/foto/nisahjb3.jpg',
     'assets/foto/nisahjb4.jpg',
-    'assets/foto/nisahjb5.jpg'
+    'assets/foto/nisahjb5.jpg',
+     'assets/foto/rasa1.jpg',
+    'assets/foto/rasa2.jpg',
+    'assets/foto/rasa3.jpg'
   ];
 
   function spawnFloatingImage() {
